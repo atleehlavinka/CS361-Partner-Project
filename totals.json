@@ -1,0 +1,17 @@
+{
+    "totalAmounts": [
+        {
+            "name": "Apple",
+            "total": 0
+        },
+        {
+            "name": "Banana",
+            "total": 0
+        },
+        {
+            "name": "Strawberry",
+            "total": 0
+        }
+    ],
+    "totalRevenue": 0
+}
