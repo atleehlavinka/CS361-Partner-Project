@@ -6,3 +6,5 @@ STEPS:
 3. Allow time for the microservice to update the totals.json file.
 4. the sales JSON file will be moved to the archive folder.
 4. Use the totals.json file to output the total number of items sold, and total revenue.
+
+5. ![image](https://github.com/atleehlavinka/CS361-Partner-Project/assets/81734135/c88d31e9-9f27-4a16-afd6-05427cbdf261)
