@@ -1,17 +1,45 @@
 {
+    "totalRevenue": 3.98,
     "totalAmounts": [
         {
             "name": "Apple",
-            "total": 0
+            "total": 2
         },
         {
             "name": "Banana",
-            "total": 0
+            "total": 8
         },
         {
             "name": "Strawberry",
             "total": 0
+        },
+        {
+            "name:": "Lettuce",
+            "total": 0
+        },
+        {
+            "name:": "Potato",
+            "total": 0
+        },
+        {
+            "name:": "Celery",
+            "total": 0
+        },
+        {
+            "name:": "Carrot",
+            "total": 0
+        },
+        {
+            "name:": "Orange",
+            "total": 0
+        },
+        {
+            "name:": "Avocado",
+            "total": 0
+        },
+        {
+            "name:": "Blueberry",
+            "total": 0
         }
-    ],
-    "totalRevenue": 0
+    ]
 }
